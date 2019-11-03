@@ -30,7 +30,7 @@ int main()
 		std::cout << "2. View Rooms\n";
 		std::cout << "3. Draw Dungeon\n";
 		std::cin >> truf;
-		if (truf == "no") {
+		if (truf == "no") { 
 			crRoom = false;
 		}
 		if (truf == "1") {
