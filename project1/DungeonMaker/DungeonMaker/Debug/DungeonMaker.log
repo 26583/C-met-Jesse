@@ -1,0 +1,6 @@
+﻿  DungeonMaker.cpp
+C:\Users\pelle\source\repos\DungeonMaker\DungeonMaker\DungeonMaker.cpp(87,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pelle\source\repos\DungeonMaker\DungeonMaker\DungeonMaker.cpp(101,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pelle\source\repos\DungeonMaker\DungeonMaker\DungeonMaker.cpp(130,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pelle\source\repos\DungeonMaker\DungeonMaker\DungeonMaker.cpp(144,24): warning C4018: '<': signed/unsigned mismatch
+  DungeonMaker.vcxproj -> C:\Users\pelle\source\repos\DungeonMaker\Debug\DungeonMaker.exe
